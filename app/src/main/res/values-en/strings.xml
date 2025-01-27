@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="eliminarono">Allow removing pokemon from the list</string>
+        <string name="idioma">Change language</string>
+        <string name="no">No</string>
+        <string name="si">Yes</string>
+        <string name="english">English</string>
+        <string name="spanish">Spanish</string>
+        <string name="cerrar">Sign out</string>
+        <string name="mis_pokemons">My Pokemon</string>
+        <string name="pokedex">Pokedex</string>
+        <string name="settings">Settings</string>
+        <string name="e_mail">e-mail</string>
+        <string name="password">Password</string>
+        <string name="entrar">Log in</string>
+        <string name="registrar">Register</string>
+        <string name="repeat_password">Repeat Password</string>
+        <string name="sin_cuenta">Register</string>
+    <string name="about">About</string>
+        <string name="about_description">Developed by: Francisco José Osuna Alcaide.\nVersion 1.0.0</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Pokedex</string>
+    <string name="eliminarono">Permitir eliminar pokemons de la lista</string>
+    <string name="idioma">Cambiar idioma</string>
+    <string name="no">No</string>
+    <string name="si">Sí</string>
+    <string name="english">English</string>
+    <string name="spanish">Español</string>
+    <string name="cerrar">Cerrar sesión</string>
+    <string name="mis_pokemons">Mis Pokemons</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="settings">Ajustes</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registar</string>
+    <string name="repeat_password">Repetir Contraseña</string>
+    <string name="sin_cuenta">Registrarse</string>
+    <string name="about">Acerca de</string>
+    <string name="about_description">Desarrollado por: Francisco José Osuna Alcaide.\nVersión 1.0.0</string>
+</resources>

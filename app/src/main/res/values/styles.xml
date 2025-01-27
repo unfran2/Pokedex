@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customizeStyle" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="backgroundColor">@color/material_dynamic_secondary70</item>
+        <item name="android:textSize">20sp</item>
+        <item name="buttonBarStyle">@color/red</item>
+    </style>
+</resources>
